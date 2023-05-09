@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "nodejs server without expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
